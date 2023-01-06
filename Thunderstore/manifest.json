@@ -1,0 +1,7 @@
+{
+    "name": "FastTravelWithWarpers",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/lelouch248/Dyson-FastWarpTravel-mod",
+    "description": "Dyson Sphere Program mod that allows you to fast travel with warpers in your mecha slot.",
+    "dependencies": [ "xiaoye97-BepInEx-5.4.17" ]
+  }
